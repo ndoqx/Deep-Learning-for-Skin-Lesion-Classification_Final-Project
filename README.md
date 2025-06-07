@@ -61,15 +61,3 @@ Top 3 performing models (based on validation and test metrics):
 
 Refer to the thesis PDF and corresponding Jupyter notebooks for full evaluation metrics and confusion matrices.
 
-## Requirements
-
-- Python 3.x
-- TensorFlow 2.x
-- Keras
-- NumPy, Matplotlib, Pandas
-- Jupyter Notebook
-- (Optional) GPU environment for training (Recommended: >=8GB VRAM)
-
-Install dependencies:
-```bash
-pip install -r requirements.txt

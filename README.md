@@ -59,6 +59,18 @@ Top 3 performing models (based on validation and test metrics):
 2. **InceptionV3**
 3. **Xception**
 
+Below are the performance summaries and confusion matrices for each model:
+
+### 📊 InceptionResNetV2 Results
+![InceptionResNetV2 Results](Result%20of%20InceptionResNetV2.png)
+
+### 📊 InceptionV3 Results
+![InceptionV3 Results](Result%20of%20InceptionV3.png)
+
+### 📊 Xception Results
+![Xception Results](Result%20of%20Xception.png)
+
+
 Refer to the thesis PDF and corresponding Jupyter notebooks for full evaluation metrics and confusion matrices.
 
 ## RequirementsAdd commentMore actions

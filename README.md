@@ -65,10 +65,10 @@ Below are the performance summaries and confusion matrices for each model:
 ![InceptionResNetV2 Results](Result%20of%20InceptionResNetV2.png)
 
 ### 📊 InceptionV3 Results
-![InceptionV3 Results](Result%20of%20InceptionV3.png)
+![InceptionV3 Results](Result%20of%20InceptionV3%20model.png)
 
 ### 📊 Xception Results
-![Xception Results](Result%20of%20Xception.png)
+![Xception Results](Result%20of%20Xception%20model.png)
 
 
 Refer to the thesis PDF and corresponding Jupyter notebooks for full evaluation metrics and confusion matrices.
